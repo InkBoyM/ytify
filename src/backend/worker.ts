@@ -17,7 +17,11 @@ const ALLOWED_ORIGINS = [
   'https://ytify-legacy.vercel.app',
   'https://ytify-2nx7.onrender.com',
   'http://localhost:3000',
-  'http://localhost:5173'
+  'http://localhost:5173',
+  'https://funnydwarf27521.templateslide.com',
+  'https://senorforge.templateslide.com',
+  'https://m.1426192.templateslide.com',
+  'https://search-templates.templateslide.com'
 ];
 
 export interface Env {
